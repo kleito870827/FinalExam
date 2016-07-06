@@ -1,0 +1,30 @@
+nav, nav li{
+    height:82px;
+}
+nav li{
+    padding-top:10px !important;
+}
+.pd1{
+    margin-right: 15px !important ;
+    font-size:inherit;
+    line-height:1.5rem;
+}
+
+.fix-height{
+    height:530px;
+}
+
+.fix-height .card-action{
+    height:60px;
+    width:100%;
+    position:absolute;
+    bottom:0;
+}
+
+.max-height{
+    max-height:500px;
+    overflow:hidden;
+}
+form{
+  display: none;
+}
